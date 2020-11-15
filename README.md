@@ -52,7 +52,7 @@ task1-5
 
 (2020-11-02追加task5接口设计 task6系统出错处理设计 内容可以参考已经提交的同学 任务完成请提交至文件夹：2020-11-01-tasks)
 
- task1 task2 task3 task4 task5 task6 潘雨非 吴杰乐 李斯文 夏宇祺 xxx 朱宇博
+ task1 task2 task3 task4 task5 task6 潘雨非 吴杰乐 李斯文 夏宇祺 王雪飞 朱宇博
  
  2020/11/04
  
